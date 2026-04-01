@@ -1,6 +1,9 @@
 ---
 label: How To Train a Clean Model
-author: robinn
+author: 
+	name : robinn
+	avatar : robinavatar.webp
+
 ---
 
 # ˖ ֹ੭୧ 𝗿𝗼𝗯𝗶𝗻𝗻 ⊹ ࣪ ⑅ - How To Train a Clean Model by robinn
