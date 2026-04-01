@@ -1,22 +1,14 @@
+
+
 branding:
   title: KPOP AI UNIVERSE
   label: Docs
-  color: "#87CEEB"
 
 url: https://kpop-ai-universe.github.io/kpop-docs/
 
-# Configuration des couleurs du thème
-theme:
-  light:
-    accent: "#FFB6C1"
-  dark:
-    accent: "#FFB6C1"
-
-# Liens de la barre latérale et du menu
 links:
   - text: Discord Server
     link: https://discord.gg/ZsH4xG5n6R
-    target: blank
 
 footer:
   copyright: "&copy; 2026 KPOP AI UNIVERSE. Created by the community."
