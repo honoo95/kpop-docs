@@ -1,8 +1,8 @@
 ---
 label: How To Train a Clean Model
 author: 
-	name: robinn
-	avatar: robinavatar.webp
+ name: robinn
+ avatar: robinavatar.webp
 ---
 
 
