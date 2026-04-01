@@ -1,6 +1,6 @@
 {
   "version": "4.4.0",
-  "created": "2026-04-01T18:56:38Z",
+  "created": "2026-04-01T18:59:10Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -21,7 +21,8 @@
       "path": "ai-cover/mvsep-guide/index.html"
     },
     {
-      "path": "ai-cover/recommended-epoch/index.html"
+      "path": "ai-cover/recommended-epoch/index.html",
+      "old": true
     },
     {
       "path": "CNAME",
@@ -90,6 +91,9 @@
     },
     {
       "path": "training/clean-model-guide/index.html"
+    },
+    {
+      "path": "training/recommended-epoch/index.html"
     },
     {
       "path": "training/robinavatar.webp"

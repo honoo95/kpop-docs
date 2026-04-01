@@ -7,7 +7,6 @@ author:
 
 # Recommended epoch values per dataset duration
 
----
 
 As requested to me personally, 
 I am going to make a post talking about which epoch values are recommended for a certain dataset duration. 
