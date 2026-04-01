@@ -4,11 +4,11 @@ branding:
 url: https://kpop-ai-universe.github.io/kpop-docs/
 theme:
   base:
-    base-color: "#FFB6C1"
-    accent-color: "#87CEEB"
+    base-color: "#87CEEB"
+    accent-color: "#FFB6C1"
   dark:
-    base-color: "#FFB6C1"
-    accent-color: "#87CEEB"
+    base-color: "#87CEEB"
+    accent-color: "#FFB6C1"
 footer:
   copyright: "&copy; 2026 KPOP AI UNIVERSE. Created by the community."
 sidebar:
