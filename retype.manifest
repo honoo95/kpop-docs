@@ -1,6 +1,6 @@
 {
   "version": "4.4.0",
-  "created": "2026-04-01T09:22:00Z",
+  "created": "2026-04-01T09:37:58Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -18,7 +18,8 @@
       "path": "ai-cover/mvsep-guide/index.html"
     },
     {
-      "path": "CNAME"
+      "path": "CNAME",
+      "old": true
     },
     {
       "path": "index.html"
