@@ -9,12 +9,19 @@ theme:
   dark:
     base-color: "#87CEEB"
     accent-color: "#FFB6C1"
+
+branding:
+  title: KPOP AI UNIVERSE
+  label: Docs
+
 footer:
   copyright: "&copy; 2026 KPOP AI UNIVERSE. Created by the community."
+
 sidebar:
   links:
     - text: Discord Server
       link: https://discord.gg/ZsH4xG5n6R
+
 # Structure settings
 input: .
 output: .retype
