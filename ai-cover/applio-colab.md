@@ -1,6 +1,8 @@
 ---
-label: Applio Colab Cover
-author: coivmn
+label: How to make an AI Cover with Applio Colab
+author: 
+ name: coivmn
+ avatar: coivmn.webp
 ---
 
 # How to make an AI Cover with Applio Colab
