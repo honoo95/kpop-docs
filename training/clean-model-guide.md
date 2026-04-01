@@ -35,4 +35,7 @@ Want a next-level model? This is the key: epochs, epochs, and more epochs. It’
 - If it’s long, use around 300–350.
 - If it’s short, use 350–500.
 
+[!ref Check this page for more recommended epochs](/training/recommended-epoch.md)
+
 And that’s it! Those are the steps I follow to train my models. Again, I’m not an expert—this is just what works for me. I hope it helps you out! Byee~ ✨ .
+

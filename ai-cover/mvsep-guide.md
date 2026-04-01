@@ -5,7 +5,11 @@ author: ShadowMikuu
 
 # How to use mvsep.com to have clean acapella and extract vocals by ShadowMikuu
 
-Link: https://mvsep.com/en
+---
+
+[!ref MVSEP website](https://mvsep.com/en)
+
+---
 
 ## Step 1
 Click on **MDX-B** for the separation type, and then click **UVR-MDX-NET-Voc_FT (SDR: 9.64)**. I like using MDX-B to filter acapellas. The output encoding doesn't matter, but I mainly use flac.
