@@ -7,9 +7,13 @@ icon: house
 
 Welcome to the ultimate hub for K-Pop AI creation. Here you will find all the community-made tutorials to master RVC, Applio, and Dahyun Bot.
 
-[!button text="Explore Inferencing" link="ai-cover/" variant="primary"]
+---
 
-[!button text="Learn Training" link="training/" variant="outline"]
+## Choose Your Path
+
+[!ref icon="mic" text="Explore Inferencing" sub="Learn how to make AI covers step by step" target="ai-cover/"]
+
+[!ref icon="cpu" text="Learn Training" sub="Master dataset creation and train clean models" target="training/"]
 
 ---
 
